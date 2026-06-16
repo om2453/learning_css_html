@@ -3,8 +3,82 @@ h4{
     background-color: aqua;
     font-size: 60px;
 }
-h1{
+/* h1{
     color: #F54927;
     font-size: 50px;
-    background-color: aquamarine ;
+}*/
+.heading1{
+    color: #f527a6;
+    font-size: 50px;
+    font:bold;
+}
+.heading2{
+ color: #1ccbe2;
+    font-size: 30px;
+    background-color: beige;
+}
+#heading3{
+ color: blue;
+    font-size: 30px;
+}
+#heading4{
+ color: gray;
+    font-size: 60px;
+    background-color: beige;
+}
+#heading6{
+    color: blue;
+}
+.heading5{
+    color: #1ccbe2;
+    background-color: black;
+}
+.hc_f_s{
+    font-size: 60px;
+}
+.hc1{
+    color: #1ccbe2;
+
+}
+.hc2{
+    color: #f527a6;
+}
+.hc3{
+    color: #F54927;
+}
+.f_trasform_uppercase{
+    text-transform: uppercase;
+}
+.f_trasform_lowercase{
+    text-transform: lowercase;
+}
+.f_trasform_capitalize{
+    text-transform: capitalize;
+}
+.t_align_center{
+    text-align: center;
+}
+.t_align_rigth{
+    text-align: right;
+}
+.t_decoration_overline{
+    text-decoration: overline;
+}
+.t_decoration_underline{
+    text-decoration: underline;
+}
+.t_decoration_linethourgh{
+    text-decoration: line-through;
+}
+.t_indent{
+    text-indent: 50px;
+}
+.t_letter_spacing{
+    letter-spacing: 8px;
+}
+.t_word_spacing{
+    word-spacing: 30px;
+}
+.line_height{
+    line-height: 25px
 }
