@@ -81,4 +81,46 @@ h4{
 }
 .line_height{
     line-height: 25px
+
+}
+.t_shadow{
+    color: blue;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 6px 4px 8px gray;
+}
+
+.b_shadow{
+    width: 200px;
+    height: 250px;
+    box-shadow:  5px 5px 5px red;
+}
+.d_shadow{
+    width: 300px;
+    height: 200px;
+    filter: drop-shadow(5px 5px 5px rgb(209, 36, 36));
+}
+.br_propreties{
+    /* solid dotted dashed double inset outset*/
+    width: 300px;
+    height: 200px;
+    border: 15px groove green;
+    border-radius: 50%;
+    border-left-color: red;
+}
+.br_text_propreties{
+  width: 300px;
+    border: 15px solid blue;
+}
+.box_model{
+    border: 15px solid black;
+    padding: 40px;
+    margin: 25px; 
+}
+.box_model2{
+    padding: 50px;
+    width: 300px;
+    height: 200px;
+    margin-top: 100px;
+    border: 15px solid black;
 }
